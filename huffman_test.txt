@@ -1,0 +1,1 @@
+a test file for Huffman encoding which generates optimal variable length encoding based on character frequency

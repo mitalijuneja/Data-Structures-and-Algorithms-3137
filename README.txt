@@ -1,9 +1,8 @@
-Mitali Juneja (mj2944) Homework 3
+Mitali Juneja (mj2944) Homework 4
 Programming #1
-1. AvlTree.java = the given code for AVL tree implementation, with some adjustments to the nodes, methods for this problem
-2. Problem1.java = implements the methods to construct and AVL tree from the words in a file and the line numbers they appear on, then outputs this result in alphabetical order, includes main() that takes the file name as command line argument
+1. KBestCounter.java = the skeleton code for KBestCounter class with count() and kbest() functionality completed
+2. TestKBest.java = provided tester class for KBestCounter with main()
 
-Programming #3
-1. QuadraticProbingHashTable.java = the given code for hash table implementation, with additional implementation of an iterator for this problem
-2. Problem2.java = implements the methods to spell check a file, outputs all misspelled words and the line numbers they appear on and suggestions based on the 3 methods in the problem, includes main() that takes 3 command line arguments in the following order = dictionary personal_dictionary file_to_check
-3. dictionary.txt = sample small dictionary file for this program (1000 words taken from https://www.ef.com/wwen/english-resources/english-vocabulary/top-1000-words/ )
+Programming #2 
+1. Huffman.java = implements the methods for creating a Huffman tree, displaying Huffman encodings, decoding, and encoding a message, includes main() that takes file name for file to construct Huffman tree from as command line argument
+2. huffman_test.txt = a short text file to test Huffman.java
