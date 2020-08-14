@@ -1,8 +1,10 @@
-Mitali Juneja (mj2944) Homework 4
+Mitali Juneja (mj2944) Homework 2
 Programming #1
-1. KBestCounter.java = the skeleton code for KBestCounter class with count() and kbest() functionality completed
-2. TestKBest.java = provided tester class for KBestCounter with main()
+1. SymbolBalance.java = implements the symbol balance methods, includes main() that takes file name as command line argument
 
-Programming #2 
-1. Huffman.java = implements the methods for creating a Huffman tree, displaying Huffman encodings, decoding, and encoding a message, includes main() that takes file name for file to construct Huffman tree from as command line argument
-2. huffman_test.txt = a short text file to test Huffman.java
+Prorgramming #2
+1. ExpressionTree.java = implements methods to construct, evaluate expression tree
+2. Problem2.java = tests ExpressionTree.java in its main(), which instantiates an expression tree and uses the methods on it
+
+Programming #3 
+1. InsertTest.scala = implements get() and insert(), includes main() for testing
